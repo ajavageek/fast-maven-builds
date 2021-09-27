@@ -10,7 +10,7 @@
     </parent>
     <groupId>blog.frankel.ch</groupId>
     <artifactId>fast-maven-builds</artifactId>
-    <version>1.3</version>
+    <version>1.4</version>
     <properties>
         <java.version>11</java.version>
         <kotlin.version>1.5.30</kotlin.version>
